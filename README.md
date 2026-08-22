@@ -27,5 +27,5 @@ Computer Science undergraduate at JECRC, Jaipur. I build full-stack web applicat
 
 ### Reach me
 
-- Portfolio — [github.com/Aadharbindal/Portfolio](https://github.com/Aadharbindal/Portfolio)
+- Portfolio — [aadharbindal.github.io/Portfolio](https://aadharbindal.github.io/Portfolio/)
 - Email — aadharbindal.it27@jecrc.ac.in
