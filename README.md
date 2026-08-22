@@ -9,7 +9,7 @@ Information Technology undergraduate at JECRC, Jaipur. I build full-stack web ap
 | --- | --- | --- |
 | **[CXL Enablement with QEMU](https://github.com/madhurkedia/CXL-Enablement-with-QEMU-Based-Emulation)** | QEMU-based testbed that emulates Compute Express Link devices, so experimental Linux kernel drivers can be validated without physical CXL hardware — team project during my HPE internship | Linux, QEMU, Shell, C |
 | **[Data Analytical Platform](https://github.com/Aadharbindal/Data_Analytical_Platform)** | End-to-end analytics workspace for exploring and visualising datasets — [live](https://numerate-analytics.vercel.app) | TypeScript, Next.js |
-| **[AI Rockfall Prediction System](https://github.com/Aadharbindal/AI-Rockfall-Prediction-System)** | Risk-prediction system for open-pit mine slope monitoring | JavaScript, Python, ML |
+| **[AI Rockfall Prediction System](https://github.com/Aadharbindal/AI-Rockfall-Prediction-System)** | Risk-prediction system for open-pit mine slope monitoring, pairing an ML model with a physics-based stability engine — [live](https://ai-rockfall-prediction-system-phi.vercel.app) | JavaScript, Python, ML |
 | **[House Price Prediction](https://github.com/Aadharbindal/House_Price_Prediction)** | Property valuation across 20 Indian cities, Gradient Boosting model at R² 0.948 — [live](https://house-price-prediction-w1j9.onrender.com) | Node.js, Express, scikit-learn |
 | **[DSA in C++](https://github.com/Aadharbindal/dsa-programs)** | Data structures and algorithms, implemented topic by topic | C++ |
 
