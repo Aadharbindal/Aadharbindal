@@ -1,6 +1,6 @@
 ## Hi, I'm Aadhar Bindal
 
-Computer Science undergraduate at JECRC, Jaipur. I build full-stack web applications and work on applied machine learning — mostly React and Node.js on the front, Python on the model side.
+Information Technology undergraduate at JECRC, Jaipur. I build full-stack web applications and work on applied machine learning — mostly React and Node.js on the front, Python on the model side.
 ---
 
 ### Featured Work
