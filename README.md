@@ -1,9 +1,6 @@
 ## Hi, I'm Aadhar Bindal
 
-Computer Science undergraduate at JECRC University, Jaipur. I build full-stack web applications and work on applied machine learning — mostly React and Node.js on the front, Python and scikit-learn on the model side.
-
-Currently focused on data-analytics tooling and turning ML models into products people can actually click through.
-
+Computer Science undergraduate at JECRC, Jaipur. I build full-stack web applications and work on applied machine learning — mostly React and Node.js on the front, Python on the model side.
 ---
 
 ### Featured Work
@@ -20,10 +17,9 @@ Currently focused on data-analytics tooling and turning ML models into products 
 
 ### Tech
 
-**Languages** — C++, Python, JavaScript, TypeScript, Java, SQL
+**Languages** — C++, Python, JavaScript, TypeScript, SQL
 **Frontend** — React, Next.js, Vite, Tailwind CSS, Framer Motion
 **Backend** — Node.js, Express, REST APIs
-**Data & ML** — scikit-learn, pandas, NumPy
 **Databases** — MySQL, PostgreSQL, MongoDB
 **Tools** — Git, Docker, Postman, Vercel, Render
 
