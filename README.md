@@ -4,7 +4,7 @@
 
 <img src="./assets/work.svg" alt="Featured Work" width="100%" />
 
-| Project | What it does | Stack |
+| Project | What it does | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | --- | --- | --- |
 | **[CXL Enablement with QEMU](https://github.com/madhurkedia/CXL-Enablement-with-QEMU-Based-Emulation)** | QEMU-based testbed that emulates Compute Express Link devices, so experimental Linux kernel drivers can be validated without physical CXL hardware — team project during my HPE internship | <img src="./assets/stack-cxl-v2.svg" alt="Linux, QEMU, Shell, C" /> |
 | **[Numerate OS](https://github.com/Aadharbindal/Numerate)** | Analytics platform that computes every metric deterministically before AI is allowed to explain it — [live](https://numerate-analytics.vercel.app) | <img src="./assets/stack-numerate-v2.svg" alt="TypeScript, Next.js, Python" /> |
