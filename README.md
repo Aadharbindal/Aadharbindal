@@ -6,11 +6,11 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[CXL Enablement with QEMU](https://github.com/madhurkedia/CXL-Enablement-with-QEMU-Based-Emulation)** | QEMU-based testbed that emulates Compute Express Link devices, so experimental Linux kernel drivers can be validated without physical CXL hardware — team project during my HPE internship | <img src="./assets/stack-cxl.svg" alt="Linux, QEMU, Shell, C" /> |
-| **[Numerate OS](https://github.com/Aadharbindal/Numerate)** | Analytics platform that computes every metric deterministically before AI is allowed to explain it — [live](https://numerate-analytics.vercel.app) | <img src="./assets/stack-numerate.svg" alt="TypeScript, Next.js, Python" /> |
-| **[AI Rockfall Prediction System](https://github.com/Aadharbindal/AI-Rockfall-Prediction-System)** | Risk-prediction system for open-pit mine slope monitoring, pairing an ML model with a physics-based stability engine — [live](https://ai-rockfall-prediction-system-phi.vercel.app) | <img src="./assets/stack-rockfall.svg" alt="JavaScript, Python, ML" /> |
-| **[House Price Prediction](https://github.com/Aadharbindal/House_Price_Prediction)** | Property valuation across 20 Indian cities, Gradient Boosting model at R² 0.948 — [live](https://house-price-prediction-w1j9.onrender.com) | <img src="./assets/stack-house.svg" alt="Node.js, Express, scikit-learn" /> |
-| **[DSA in C++](https://github.com/Aadharbindal/dsa-programs)** | Data structures and algorithms, implemented topic by topic | <img src="./assets/stack-dsa.svg" alt="C++" /> |
+| **[CXL Enablement with QEMU](https://github.com/madhurkedia/CXL-Enablement-with-QEMU-Based-Emulation)** | QEMU-based testbed that emulates Compute Express Link devices, so experimental Linux kernel drivers can be validated without physical CXL hardware — team project during my HPE internship | <img src="./assets/stack-cxl-v2.svg" alt="Linux, QEMU, Shell, C" /> |
+| **[Numerate OS](https://github.com/Aadharbindal/Numerate)** | Analytics platform that computes every metric deterministically before AI is allowed to explain it — [live](https://numerate-analytics.vercel.app) | <img src="./assets/stack-numerate-v2.svg" alt="TypeScript, Next.js, Python" /> |
+| **[AI Rockfall Prediction System](https://github.com/Aadharbindal/AI-Rockfall-Prediction-System)** | Risk-prediction system for open-pit mine slope monitoring, pairing an ML model with a physics-based stability engine — [live](https://ai-rockfall-prediction-system-phi.vercel.app) | <img src="./assets/stack-rockfall-v2.svg" alt="JavaScript, Python, ML" /> |
+| **[House Price Prediction](https://github.com/Aadharbindal/House_Price_Prediction)** | Property valuation across 20 Indian cities, Gradient Boosting model at R² 0.948 — [live](https://house-price-prediction-w1j9.onrender.com) | <img src="./assets/stack-house-v2.svg" alt="Node.js, Express, scikit-learn" /> |
+| **[DSA in C++](https://github.com/Aadharbindal/dsa-programs)** | Data structures and algorithms, implemented topic by topic | <img src="./assets/stack-dsa-v2.svg" alt="C++" /> |
 
 ---
 
